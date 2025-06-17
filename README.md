@@ -27,8 +27,8 @@ This table is designed to inspire.
 
 ## 🧪 Preview
 
-![Preview of Periodic Table](https://dummyimage.com/600x400/cccccc/000000&text=Periodic+Table+Preview)  
-*(You can replace the above link with a real screenshot)*
+![Screenshot (712)](https://github.com/user-attachments/assets/1338977e-93ad-480b-8e78-45a9bb1bbe36)
+
 
 ## 📜 License
 
